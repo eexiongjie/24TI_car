@@ -1,4 +1,3 @@
-
 #include "board.h"
 #include "stdio.h"
 #include "uart.h"
