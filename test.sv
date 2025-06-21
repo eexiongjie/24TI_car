@@ -49,3 +49,18 @@ end
 
 endmodule
 
+interface my_if;
+    logic clk;
+    logic rst_n;
+endinterface
+
+// Testbench for the modules
+module tb;
+
+my_if if_tb();
+
+//just a testbench for the mentioned modules above.
+
+
+//second commit
+endmodule
